@@ -1,16 +1,40 @@
-## Hi there 👋
+# Hi 👋, I'm Kumudumini Sameeksha
 
-<!--
-**Kumudu-Sameeksha/Kumudu-Sameeksha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Software Engineering Student  
+💻 Interested in Software Development & Web Development  
+🌱 Currently learning Python, TypeScript 
+🎯 Aspiring Front-End Developer and UI/UX Designer
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Skills
+- React
+- HTML
+- CSS
+- JavaScript
+- TypeScript
+  
+
+---
+
+## 📂 Projects
+- Student Management System (Java + Web)
+- Vehicle Auction System
+- BinGo Flutter App
+
+---
+
+## 🎯 Goals
+Aspiring Front-End Developer and UI/UX Designer with a passion for building intuitive, accessible, and engaging user experiences. Continuously learning modern web technologies and design principles to develop high-quality digital products.
+Continuosly learning to become a Full Stack Developer and gain internship experience.
+
+---
+
+## 📫 Contact
+- Email: sameeksha2002kumudu@gmail.com
+- LinkedIn: www.linkedin.com/in/kumudumini-sameeksha-019a54339
+
+
+
+
+
